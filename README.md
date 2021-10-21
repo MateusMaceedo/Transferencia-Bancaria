@@ -16,7 +16,7 @@
 </p>
 
 <!--About session-->
-<h1 align="center">Criando uma aplicação de transferências bancárias com .NET<br>Digital Innovation One</h1>
+<h1 align="center">Aplicação de transferências bancárias com .NET<br>Digital Innovation One</h1>
 
 <img src="./assets/badge.png" title="Badge" width="70" height="70">
 
